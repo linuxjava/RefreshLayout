@@ -1,6 +1,9 @@
 # RefreshLayout
 
 开发者使用 RefreshLayout-Android 对RecycView、Listview、ScrollView等控件实现下拉刷新和上拉加载
+项目特点
+* 1234
+* 1234
 ##  APK下载
 [Download](https://github.com/linuxjava/RefreshLayout/raw/master/apk/app-debug.apk)
 ##  Demo使用
