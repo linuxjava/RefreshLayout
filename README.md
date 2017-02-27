@@ -40,24 +40,13 @@ systemProp.https.proxyPort=8080
 |属性|说明|
 |----|-----
 |refresh_enabled|刷新使能
-|load_more_enabled|_斜体2_
-|swipe_style|test1|test2
-|drag_ratio|__粗体2__
-|refresh_trigger_offset|这是一个 ~~删除线~~
-|load_more_trigger_offset|***斜粗体1***
-|refresh_final_drag_offset|___斜粗体2___
-|load_more_final_drag_offset|***~~斜粗体删除线1~~***
-|swiping_to_refresh_to_default_scrolling_duration|~~***斜粗体删除线2***~~
-|release_to_refreshing_scrolling_duration|~~***斜粗体删除线2***~~
-|refresh_complete_delay_duration|~~***斜粗体删除线2***~~
-|refresh_complete_to_default_scrolling_duration|~~***斜粗体删除线2***~~
-|default_to_refreshing_scrolling_duration|~~***斜粗体删除线2***~~
-|swiping_to_load_more_to_default_scrolling_duration|~~***斜粗体删除线2***~~
-|release_to_loading_more_scrolling_duration|~~***斜粗体删除线2***~~
-|load_more_complete_delay_duration|~~***斜粗体删除线2***~~
-|load_more_complete_to_default_scrolling_duration|~~***斜粗体删除线2***~~
-|default_to_loading_more_scrolling_duration|~~***斜粗体删除线2***~~
-
+|load_more_enabled|加载使能
+|swipe_style|header和footer模式
+|drag_ratio|drag阻尼系数，越小越难拉动
+|refresh_trigger_offset|触发刷新的偏移，默认为header高度
+|load_more_trigger_offset|触发加载更多的偏移，默认为footer高度
+|refresh_final_drag_offset|下拉最大偏移，默认为0
+|load_more_final_drag_offset|加载更多最大偏移，默认为0
 
 ## 效果图
 如下图所示：
