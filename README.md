@@ -37,6 +37,26 @@ systemProp.https.proxyPort=8080
 </xiao.free.refreshlayoutlib.SwipeRefreshLayout>
 ```
 ## 属性说明
+|属性|说明|
+|----|-----
+|refresh_enabled|*斜体1*
+|load_more_enabled|_斜体2_
+|swipe_style|**粗体1**
+|drag_ratio|__粗体2__
+|refresh_trigger_offset|这是一个 ~~删除线~~
+|load_more_trigger_offset|***斜粗体1***
+|refresh_final_drag_offset|___斜粗体2___
+|load_more_final_drag_offset|***~~斜粗体删除线1~~***
+|swiping_to_refresh_to_default_scrolling_duration|~~***斜粗体删除线2***~~
+|release_to_refreshing_scrolling_duration|~~***斜粗体删除线2***~~
+|refresh_complete_delay_duration|~~***斜粗体删除线2***~~
+|refresh_complete_to_default_scrolling_duration|~~***斜粗体删除线2***~~
+|default_to_refreshing_scrolling_duration|~~***斜粗体删除线2***~~
+|swiping_to_load_more_to_default_scrolling_duration|~~***斜粗体删除线2***~~
+|release_to_loading_more_scrolling_duration|~~***斜粗体删除线2***~~
+|load_more_complete_delay_duration|~~***斜粗体删除线2***~~
+|load_more_complete_to_default_scrolling_duration|~~***斜粗体删除线2***~~
+|default_to_loading_more_scrolling_duration|~~***斜粗体删除线2***~~
 
 
 ## 效果图
