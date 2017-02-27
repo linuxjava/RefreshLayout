@@ -39,9 +39,9 @@ systemProp.https.proxyPort=8080
 ## 属性说明
 |属性|说明|
 |----|-----
-|refresh_enabled|*斜体1*
+|refresh_enabled|刷新使能
 |load_more_enabled|_斜体2_
-|swipe_style|**粗体1**
+|swipe_style|test1|test2
 |drag_ratio|__粗体2__
 |refresh_trigger_offset|这是一个 ~~删除线~~
 |load_more_trigger_offset|***斜粗体1***
