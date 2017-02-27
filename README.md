@@ -61,3 +61,7 @@ systemProp.https.proxyPort=8080
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/2.gif)
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/3.gif)
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/4.gif)
+
+## 使用bug注意
+使用BLOW和SCALE模式时，ListView或其Item需要有背景颜色，否则在这两种模式下会存在bug
+![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/error.gif)
