@@ -41,6 +41,7 @@ systemProp.https.proxyPort=8080
 
 ## 效果图
 如下图所示：
+
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/1.gif)
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/2.gif)
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/3.gif)
