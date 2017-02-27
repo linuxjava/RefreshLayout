@@ -37,7 +37,16 @@ systemProp.https.proxyPort=8080
 </xiao.free.refreshlayoutlib.SwipeRefreshLayout>
 ```
 ## 属性说明
-
+|属性|说明|
+|----|-----
+|refresh_enabled|刷新使能
+|load_more_enabled|加载使能
+|swipe_style|header和footer模式
+|drag_ratio|drag阻尼系数，越小越难拉动
+|refresh_trigger_offset|触发刷新的偏移，默认为header高度
+|load_more_trigger_offset|触发加载更多的偏移，默认为footer高度
+|refresh_final_drag_offset|下拉最大偏移，默认为0
+|load_more_final_drag_offset|加载更多最大偏移，默认为0
 
 ## 效果图
 如下图所示：
