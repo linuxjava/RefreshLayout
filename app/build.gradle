@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "25.0.2"
+    compileSdkVersion ANDROID_BUILD_SDK_VERSION as int
+    buildToolsVersion ANDROID_BUILD_TOOLS_VERSION
     defaultConfig {
         applicationId "xiao.free.refreshlayout"
         minSdkVersion 14
-        targetSdkVersion 23
+        targetSdkVersion ANDROID_BUILD_SDK_VERSION
         versionCode 1
         versionName "1.0"
     }
