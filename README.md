@@ -66,8 +66,8 @@ compile 'xiao.free.refreshlayout:refreshlayoutlib:v1.0.0'
 ![image](https://github.com/linuxjava/RefreshLayout/raw/master/gif/4.gif)
 
 ## 使用bug注意
-|属性|说明|
-|----|-----
+|属性|
+|----|
 |xml布局中header的id需定义为swipe_refresh_header|
 |目标view id需定义为swipe_target|
 |xml布局中footer的id需定义为swipe_refresh_header|
