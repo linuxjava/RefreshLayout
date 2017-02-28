@@ -19,6 +19,9 @@ systemProp.https.proxyHost=dev-proxy.oa.com
 systemProp.https.proxyPort=8080
 ```
 ## Gradle配置
+```xml
+compile 'xiao.free.refreshlayout:refreshlayoutlib:v1.0.0'
+```
 
 ## XML配置
 ```xml
