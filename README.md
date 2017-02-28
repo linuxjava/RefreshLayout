@@ -1,8 +1,7 @@
 # RefreshLayout
 
-开发者使用 RefreshLayout-Android 对RecycView、Listview、ScrollView等控件实现下拉刷新和上拉加载
-
 项目特点
+* 支持RecycView、Listview、ScrollView、各种布局控件实现下拉刷新和上拉加载；
 * 该项目的设计结构和整体业务逻辑清晰，各细节功能点的处理考虑全面；
 * 对项目的整体开发步骤以及所有晦涩难懂的点，都有详细注释，非常适合中高端工程师学习并进行二次开发
 
